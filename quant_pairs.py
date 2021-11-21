@@ -1,6 +1,5 @@
 #Developing a Pairs Trading strategy for the Indian Banking sector
 #If the stock price of A moves in a certain direction, then the stock price of B is expected to make a similar move
-#Part of Capstone Project - for MOOC on Advanced Trading Algorithms, ISB on Coursera
 
 #******************************************************************
 
