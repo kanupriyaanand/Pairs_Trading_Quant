@@ -1,6 +1,5 @@
 #Developing a Pairs Trading strategy for the Indian Banking sector
 #Simple regression line plotting between scrips of Axis Bank and ICICI Bank
-#Part of Capstone Project - for MOOC on Advanced Trading Algorithms, ISB on Coursera
 
 #******************************************************************
 
